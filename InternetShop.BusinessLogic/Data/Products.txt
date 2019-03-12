@@ -1,0 +1,1 @@
+﻿[{"Id":1,"CategoryId":1,"Name":"Samsung S10","Price":24999.0},{"Id":2,"CategoryId":1,"Name":"Apple IPhone X","Price":33699.0},{"Id":3,"CategoryId":2,"Name":"Apple IPad 4","Price":29999.0},{"Id":4,"CategoryId":2,"Name":"Samsung Tab S5","Price":17988.0}]
